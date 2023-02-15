@@ -1,0 +1,167 @@
+[
+    {
+      "_id": "6371e6e404c0c1151bf0325a",
+      "productName": "The Supeer",
+      "shortDescription": "Rank 2 Painting",
+      "detailedDescription": "2nd Best Painting in the world",
+      "category": "Painting",
+      "startingPrice": 100000,
+      "bidEndDate": "2022-12-08T00:00:00.000Z",
+      "sellerInfo": {
+        "firstName": "Ashish",
+        "lastName": "Kumar",
+        "address": "upper Bazar",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "pin": 834001,
+        "phone": 7903411691,
+        "email": "ashish@mailinator.in"
+      },
+      "bidders": [
+        {
+          "firstName": "nishant",
+          "lastName": "kumar",
+          "address": "upper Bazar",
+          "city": "Ranchi",
+          "state": "Jharkhand",
+          "pin": 834001,
+          "phone": 8789450901,
+          "email": "nis@mailinator.in",
+          "bidAmount": 500,
+          "_id": "6371e73e94adef52f5e67886"
+        }
+      ]
+    },
+    {
+      "_id": "63749d63ceb5299e051bb9e0",
+      "productName": "Mona Lisa",
+      "shortDescription": "Rank 1 Painting",
+      "detailedDescription": "1st Best Painting in the world",
+      "category": "Painting",
+      "startingPrice": 100000,
+      "bidEndDate": "2022-12-08T00:00:00.000Z",
+      "sellerInfo": {
+        "firstName": "Ashish",
+        "lastName": "Kumar",
+        "address": "upper Bazar",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "pin": 834001,
+        "phone": 7903411692,
+        "email": "ashish2@mailinator.in"
+      },
+      "bidders": [
+        
+      ]
+    },
+    {
+      "_id": "63aa84e00e581c48e6def6e2",
+      "productName": "cello pen",
+      "shortDescription": "mobile phone",
+      "detailedDescription": "premium mobile phone",
+      "category": "Painting",
+      "startingPrice": 200000,
+      "bidEndDate": "2022-12-30T00:00:00.000Z",
+      "sellerInfo": {
+        "firstName": "ABCDE",
+        "lastName": "electronics",
+        "address": "upper Bazar",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "pin": 834001,
+        "phone": 7903411691,
+        "email": "ashish2@mailinator.in"
+      },
+      "bidders": [
+        
+      ]
+    },
+    {
+      "_id": "63aa85ae0e581c48e6def6e4",
+      "productName": "cello pen",
+      "shortDescription": "mobile phone",
+      "detailedDescription": "premium mobile phone",
+      "category": "Painting",
+      "startingPrice": 200000,
+      "bidEndDate": "2022-12-30T00:00:00.000Z",
+      "sellerInfo": {
+        "firstName": "ABCDE",
+        "lastName": "electronics",
+        "address": "upper Bazar",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "pin": 834001,
+        "phone": 7903411691,
+        "email": "ashish2@mailinator.in"
+      },
+      "bidders": [
+        
+      ]
+    },
+    {
+      "_id": "63aa85b50e581c48e6def6e6",
+      "productName": "cello pen",
+      "shortDescription": "mobile phone",
+      "detailedDescription": "premium mobile phone",
+      "category": "Painting",
+      "startingPrice": 200000,
+      "bidEndDate": "2022-12-30T00:00:00.000Z",
+      "sellerInfo": {
+        "firstName": "ABCDE",
+        "lastName": "electronics",
+        "address": "upper Bazar",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "pin": 834001,
+        "phone": 7903411691,
+        "email": "ashish2@mailinator.in"
+      },
+      "bidders": [
+        
+      ]
+    },
+    {
+      "_id": "63aa85c10e581c48e6def6e8",
+      "productName": "cello pen",
+      "shortDescription": "mobile phone",
+      "detailedDescription": "premium mobile phone",
+      "category": "Painting",
+      "startingPrice": 200000,
+      "bidEndDate": "2022-12-30T00:00:00.000Z",
+      "sellerInfo": {
+        "firstName": "ABCDE",
+        "lastName": "electronics",
+        "address": "upper Bazar",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "pin": 834001,
+        "phone": 7903411691,
+        "email": "ashish2@mailinator.in"
+      },
+      "bidders": [
+        
+      ]
+    },
+    {
+      "_id": "63dba2bf26e4c7c5fd46a2a0",
+      "productName": "cello pen",
+      "shortDescription": "mobile phone",
+      "detailedDescription": "premium mobile phone",
+      "category": "Painting",
+      "startingPrice": 200000,
+      "bidEndDate": "2023-12-30T00:00:00.000Z",
+      "sellerInfo": {
+        "firstName": "ABCDE",
+        "lastName": "electronics",
+        "address": "upper Bazar",
+        "city": "Ranchi",
+        "state": "Jharkhanda",
+        "pin": 834001,
+        "phone": 7903411691,
+        "email": "ashish2@mailinator.in"
+      },
+      "bidders": [
+        
+      ]
+    }
+  ]
