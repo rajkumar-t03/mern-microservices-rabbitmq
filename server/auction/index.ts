@@ -23,7 +23,7 @@ const connectDB = async () => {
       console.log(`Server is super at http://localhost:8085`);
     });
     ampq.connect(
-      "amqps://ngavliaa:W2OzZsLzevaw1UOTxY-bJoKKQ7k9nt0w@puffin.rmq2.cloudamqp.com/ngavliaa",
+      "amqps url has to be given here",
       (error0, connection) => {
         if (error0) {
           throw error0;

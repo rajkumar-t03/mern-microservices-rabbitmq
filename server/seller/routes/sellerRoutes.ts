@@ -6,7 +6,7 @@ import * as ampq from 'amqplib/callback_api'
 
 const productRoutes = express.Router();
 
-ampq.connect('amqps://ngavliaa:W2OzZsLzevaw1UOTxY-bJoKKQ7k9nt0w@puffin.rmq2.cloudamqp.com/ngavliaa', (error0, connection)=>{
+ampq.connect('ampq url has to be given here', (error0, connection)=>{
     if(error0){
         throw error0;
     }
